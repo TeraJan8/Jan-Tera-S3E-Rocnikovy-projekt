@@ -1,9 +1,9 @@
-### Jan-Tera-ovládání-LED-pásku-pomocí-ESP8266
+## Jan-Tera-ovládání-LED-pásku-pomocí-ESP8266
 <u>Wi‑Fi ovládání LED pásku pomocí ESP8266<u/>
 
 Cíl: Vytvořit ovládání LED pásku přes Wi‑Fi pomocí modulu ESP8266 NodeMCU V3, které umožní zapínat a vypínat pásek z telefonu a zároveň nabídne manuální ovládání tlačítkem. Projekt slouží k zjednodušení každodenního používání osvětlení a k procvičení pájení, práce s ESP a programování.
 
-<u>Použité komponenty a jejich funkce</u>
+###Použité komponenty a jejich funkce
 
 ESP8266 Lua NodeMCU V3 Funkce: hlavní řídicí jednotka; připojuje se k Wi‑Fi a běží na něm webserver pro ovládání LED pásku. Důvod volby: podporuje Wi‑Fi a snadné programování.
 
@@ -21,7 +21,7 @@ Plastová krabička a prototypová PCB Funkce: krabička schová elektroniku; PC
 
 Napájení ESP8266: micro‑USB kabel připojený k 5V adaptéru.
 
-<u>Současný stav</u>
+###Současný stav
 
 Seznam součástek (aktuálně): ESP8266 NodeMCU V3, rezistor 220 Ω 0.6 W 1% 50 ppm, rezistor 100 kΩ 0.6 W 1% 50 ppm, IRLZ44N MOSFET, LED pásek (cca 5 m), tlačítko a propojovací kabely.
 
@@ -31,7 +31,7 @@ LED pásek je připraven k rozstříhání a napájení podle délky stolu.
 
 Fotky komponentů jsou vyfoceny a budou přiloženy v repozitáři.
 
-<u>Plánované kroky<u/>
+###Plánované kroky
 
 Přesné rozstříhání a napájení LED pásku podle tvaru stolu.
 
@@ -43,6 +43,6 @@ Nahrání a otestování kódu do ESP8266, ladění webového rozhraní.
 
 Finalizace dokumentace a nahrání všech materiálů na GitHub.
 
-<u>Zdroje<u/>
+###Zdroje
 
 Seznam a výběr komponent byl konzultován a částečně vygenerován s pomocí AI asistenta Microsoft Copilot; návrh byl následně upraven a otestován autorem projektu.
