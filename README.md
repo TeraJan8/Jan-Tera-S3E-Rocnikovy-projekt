@@ -1,5 +1,5 @@
 ## Jan-Tera-ovládání-LED-pásku-pomocí-ESP8266
-<u>Wi‑Fi ovládání LED pásku pomocí ESP8266<u/>
+### Wi‑Fi ovládání LED pásku pomocí ESP8266
 
 Cíl: Vytvořit ovládání LED pásku přes Wi‑Fi pomocí modulu ESP8266 NodeMCU V3, které umožní zapínat a vypínat pásek z telefonu a zároveň nabídne manuální ovládání tlačítkem. Projekt slouží k zjednodušení každodenního používání osvětlení a k procvičení pájení, práce s ESP a programování.
 
