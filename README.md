@@ -23,9 +23,9 @@ Napájení ESP8266: micro‑USB kabel připojený k 5V adaptéru.
 
 ### Současný stav
 
-Seznam součástek (aktuálně): ESP8266 NodeMCU V3 (IMG_1243.JPEG), Rezistor 220 Ω 0.6 W 1% 50 ppm (IMG_1242.JPEG), Rezistor 100 kΩ 0.6 W 1% 50 ppm (IMG_1242.JPEG), IRLZ44N MOSFET (IMG_1242.JPEG), LED pásek cca 5m (IMG_1244.JPEG), tlačítko a propojovací kabely (IMG_1249.JPEG).
+Seznam součástek (aktuálně): ![ESP8266 NodeMCU V3](IMG_1243.JPEG), ![Rezistor 220 Ω 0.6 W 1% 50 ppm, Rezistor 100 kΩ 0.6 W 1% 50 ppm, IRLZ44N MOSFET](IMG_1242.JPEG), ![LED pásek cca 5m](IMG_1244.JPEG), ![tlačítko a propojovací kabely](IMG_1249.JPEG).
 
-Objednané položky: plastová krabička (Snímek obrazovky 2025-12-18 135821.jpg) a prototypová PCB deska Snímek obrazovky (2025-12-18 135903.jpg).
+Objednané položky: ![plastová krabička](Snímek obrazovky 2025-12-18 135821.jpg) a ![prototypová PCB deska](Snímek obrazovky2025-12-18 135903.jpg).
 
 LED pásek je připraven k rozstříhání a napájení podle délky stolu.
 
