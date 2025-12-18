@@ -11,7 +11,7 @@ IRLZ44N MOSFET Tranzistor Funkce: spínací prvek pro LED pásek. ESP8266 dává
 
 Rezistor 220 Ω 0.6 W 1% 50 ppm Funkce: omezovací rezistor (např. pro ochranu LED indikace nebo brány MOSFETu při zapojení s LED diodami). Proč 0.6 W: vyšší výkonová rezerva zajišťuje, že rezistor se nepřehřívá při krátkodobém zatížení; 0.6 W je bezpečná volba pro malé obvody a zvyšuje spolehlivost.
 
-Rezistor 100 kΩ 0.6 W 1% 50 ppm Funkce: pull‑down nebo pull‑up v obvodu tlačítka či pro stabilizaci vstupu; zajišťuje definovaný stav při uvolněném tlačítku.
+Rezistor 100 kΩ 0.6 W 1% 50 ppm Funkce: slouží k tomu, aby měl vstup ESP8266 vždy jasně definovaný stav. Když není tlačítko stisknuté, rezistor zajistí, že vstup nebude náhodně přepínat mezi 0 a 1, ale zůstane stabilně v jedné poloze.
 
 Jednobarevný LED pásek cca 5 m Funkce: hlavní osvětlení, které upravím na přesnou délku a tvar podle stolu. Pásek budu stříhat podle dělicích míst a napájet v sekcích tak, aby seděl na tvar stolu.
 
