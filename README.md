@@ -47,6 +47,16 @@ Nahrání a otestování kódu do ESP8266, ladění webového rozhraní.
 Finalizace dokumentace a nahrání všech materiálů na GitHub.
 
 
-### Zdroje
+### Zdroje a citace
 
 Seznam a výběr komponent byl konzultován a částečně vygenerován s pomocí AI asistenta Microsoft Copilot; návrh byl následně upraven a otestován autorem projektu.
+
+TECHTUTORIALSX. ESP8266 Webserver: Controlling a LED through WiFi. Online. TECHTUTORIALSX. TechTutorialsx. 2016. Dostupné z: https://techtutorialsx.com/2016/11/19/esp8266-webserver-controlling-a-led-through-wifi/. [cit. 2026-01-08]. 
+
+Článek vysvětluje, jak na ESP8266 vytvořit jednoduchý webový server, který umožňuje ovládat stav výstupního GPIO pinu prostřednictvím webového rozhraní v prohlížeči.
+
+LED Strips & Arduino – Understanding 5V and 12V Single-Color Strips [@Mario's Ideas]. Online. 2025. Dostupné z: YouTube, https://www.youtube.com/watch?v=ms8_rbJWyoo. [cit. 2026-01-08]. 
+
+Video slouží pro pochopení hardwarového principu ovládání 12V LED pásků pomocí mikrokontroléru pracujícího s nízkým napětím 3,3 V. Video názorně vysvětluje, proč není možné LED pásek napájet přímo z výstupu mikrokontroléru a jakou roli v obvodu hraje spínací prvek, například MOSFET.
+
+
